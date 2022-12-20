@@ -5,7 +5,7 @@ function generateRandomNumber(num) {
 }
 
 const pickMyTeam = {
-    teamHome: ['Las Vegas', 'Eaton', 'San Jose', 'St. Luke', 'Tampa Bay', 'Montbello', 'Dubai', 'London', 'Manhattan', 'Wrong side of the tracks'],
+    teamHome: ['Las Vegas', 'Eaton', 'San Jose', 'St. Luke', 'Tampa Bay', 'Montbello', 'Dubai', 'London', 'Manhattan', 'Wrong side of the tracks', 'Franktown'],
     teamName: ['Raiders', 'Silly Nannies', '49ers', 'Rockstompers', 'Buccaneers', 'Warriors', 'Skyscrapers', 'Tea Sippers', 'Native New Yorkers', 'Railroad Raiders'],
     teamMoto: ['Just Win Baby', 'Slap me silly and call me a nannie', 'Faithful To The Bay', 'Lets go Strong men, lets go', 'Raise The Flags', 'Truth, Honor, and Dignity', 'Make it Happen', 'Tea before thee', 'I/m walking here', 'We were first']
 }
